@@ -17,7 +17,7 @@ CREATE TABLE IF NOT EXISTS survey
     "Annual Salary" varchar,
     "additional compensation" varchar,
     currency varchar,
-	"other currency"varchar,
+	"other currency" varchar,
 	 income_context varchar,
     country varchar,
     state varchar,
@@ -29,3 +29,5 @@ CREATE TABLE IF NOT EXISTS survey
     race varchar
 );
 select * from survey limit 5;
+
+drop table survey;
