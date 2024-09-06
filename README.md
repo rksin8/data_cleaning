@@ -19,8 +19,8 @@ This project focuses on the process of cleaning and transforming raw data to ens
 
 ## Tools and Technologies Used
 
-- **Programming Languages:** Python
-- **Libraries & Tools:** Pandas, NumPy
+- **Programming Languages:** SQL, Python
+- **Libraries & Tools:** Pandas, NumPy, Excel
 - **Data Cleaning Techniques:** Handling missing values, data imputation, outlier detection, and data normalization
 
 ## Results
